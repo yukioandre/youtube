@@ -1,0 +1,91 @@
+import numpy as np
+import pandas as pd
+
+def gerar_car_df(n_linhas=1000, seed=42):
+    rng = np.random.default_rng(seed)
+
+    # --- 1) Definir 'produto' e 'id' garantindo unicidade de (id, produto) ---
+    # Distribuição simples (~1/3 para cada produto)
+    produtos = ['fibra', 'banda larga', 'celular']
+    qtds = {
+        'fibra': n_linhas // 3,
+        'banda larga': n_linhas // 3,
+        'celular': n_linhas - 2 * (n_linhas // 3)  # completa o total
+    }
+
+    # pool de IDs permite que o mesmo cliente apareça em produtos diferentes,
+    # mas não repete (id) dentro do MESMO produto
+    id_pool_tam = max(qtds.values()) + max(50, n_linhas // 5)
+    id_pool = np.arange(1, id_pool_tam + 1)
+
+    registros = []
+    for prod in produtos:
+        k = qtds[prod]
+        ids = rng.choice(id_pool, size=k, replace=False)  # sem repetição dentro do produto
+        registros.extend([(prod, int(i)) for i in ids])
+
+    df = pd.DataFrame(registros, columns=['produto', 'id'])
+
+    # --- 2) Definir 'saldo' por faixas específicas de cada produto ---
+    faixas_saldo = {
+        'fibra': (120.0, 550.0),
+        'banda larga': (80.0, 280.0),
+        'celular': (60.0, 400.0)
+    }
+
+    def gerar_saldo(prod_array):
+        lows = np.vectorize(lambda p: faixas_saldo[p][0])(prod_array)
+        highs = np.vectorize(lambda p: faixas_saldo[p][1])(prod_array)
+        return rng.uniform(lows, highs)
+
+    df['saldo'] = gerar_saldo(df['produto'].values).round(2)
+
+    # --- 3) Definir 'UF' condicionada ao produto nas proporções pedidas ---
+    dist_uf = {
+        'fibra':   (['SP', 'RJ', 'ES', 'MG'], [0.50, 0.20, 0.15, 0.15]),
+        'banda larga': (['SP', 'RJ', 'MG', 'ES'], [0.40, 0.25, 0.20, 0.15]),
+        'celular': (['SP', 'MG', 'ES', 'RJ'], [0.25, 0.25, 0.25, 0.25]),
+    }
+
+    def escolher_uf(prod):
+        ufs, ps = dist_uf[prod]
+        return rng.choice(ufs, p=ps)
+
+    df['UF'] = df['produto'].apply(escolher_uf)
+
+    # --- 4) Definir 'idade' com correlação negativa fraca com 'saldo' ---
+    # Normalizamos o saldo (global) e criamos idade com tendência inversa + ruído
+    saldo_norm = (df['saldo'] - df['saldo'].min()) / (df['saldo'].max() - df['saldo'].min())
+
+    # Parâmetros da idade base (ajuste fino para manter correlação fraca, não perfeita)
+    idade_base = 52  # ponto médio aproximado
+    amplitude = 14   # o quanto a idade cai quando o saldo aumenta
+    ruido = rng.normal(0, 6, size=len(df))  # ruído para evitar linearidade forte
+
+    idade_continua = idade_base - amplitude * saldo_norm + ruido
+    df['idade'] = np.clip(np.rint(idade_continua), 18, 75).astype(int)
+
+    # Ordena colunas na ordem solicitada
+    car_df = df[['id', 'produto', 'saldo', 'UF', 'idade']].copy()
+
+    # Garante tipos (por segurança)
+    car_df['id'] = car_df['id'].astype(int)
+    car_df['produto'] = car_df['produto'].astype(str)
+    car_df['saldo'] = car_df['saldo'].astype(float)
+    car_df['UF'] = car_df['UF'].astype(str)
+    car_df['idade'] = car_df['idade'].astype(int)
+
+    return car_df
+
+# Exemplo de uso:
+car_df = gerar_car_df(n_linhas=1000, seed=42)
+
+# Selecionar 10 índices aleatórios do car_df
+idx_negativos = np.random.choice(car_df.index, size=10, replace=False)
+
+# Multiplicar o saldo dessas linhas por -1
+car_df.loc[idx_negativos, 'saldo'] *= -1
+
+# Verificar se deu certo
+print(car_df.loc[idx_negativos, ['id', 'produto', 'saldo']])
+
