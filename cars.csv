@@ -1,0 +1,1001 @@
+,id,produto,saldo,UF,idade
+0,300,fibra,240.79,RJ,54
+1,186,fibra,146.69,ES,56
+2,486,fibra,317.05,SP,40
+3,456,fibra,175.48,MG,32
+4,94,fibra,185.5,RJ,38
+5,525,fibra,391.88,SP,51
+6,205,fibra,288.96,MG,43
+7,424,fibra,516.4,SP,34
+8,215,fibra,257.24,SP,56
+9,302,fibra,432.26,SP,49
+10,420,fibra,318.27,RJ,45
+11,127,fibra,403.78,SP,40
+12,245,fibra,377.87,SP,42
+13,517,fibra,323.3,SP,46
+14,392,fibra,528.53,SP,48
+15,425,fibra,267.37,SP,49
+16,337,fibra,196.21,RJ,52
+17,263,fibra,411.58,SP,49
+18,112,fibra,483.78,SP,33
+19,64,fibra,137.31,RJ,54
+20,318,fibra,313.34,SP,43
+21,218,fibra,503.77,RJ,24
+22,133,fibra,442.34,SP,28
+23,490,fibra,546.48,SP,32
+24,141,fibra,348.51,SP,47
+25,484,fibra,403.8,SP,43
+26,243,fibra,250.07,SP,48
+27,497,fibra,527.44,ES,50
+28,299,fibra,277.52,SP,38
+29,529,fibra,437.56,RJ,41
+30,363,fibra,293.35,RJ,47
+31,38,fibra,361.58,SP,39
+32,34,fibra,429.51,RJ,42
+33,67,fibra,338.84,SP,34
+34,208,fibra,510.05,SP,48
+35,356,fibra,300.3,SP,41
+36,419,fibra,398.24,ES,55
+37,160,fibra,267.22,MG,46
+38,330,fibra,295.51,SP,51
+39,521,fibra,309.22,RJ,45
+40,350,fibra,174.1,ES,49
+41,128,fibra,159.44,SP,46
+42,118,fibra,407.02,ES,43
+43,54,fibra,401.87,RJ,44
+44,213,fibra,405.05,MG,37
+45,149,fibra,128.5,MG,49
+46,165,fibra,260.42,SP,43
+47,379,fibra,205.06,SP,62
+48,164,fibra,454.61,RJ,40
+49,485,fibra,490.07,SP,49
+50,532,fibra,226.07,SP,46
+51,193,fibra,407.18,MG,44
+52,498,fibra,175.63,SP,41
+53,280,fibra,238.32,SP,44
+54,147,fibra,179.62,ES,50
+55,290,fibra,241.91,SP,56
+56,442,fibra,410.14,SP,43
+57,283,fibra,511.44,MG,47
+58,434,fibra,207.08,SP,52
+59,119,fibra,353.09,SP,53
+60,22,fibra,421.6,SP,41
+61,3,fibra,529.76,MG,53
+62,340,fibra,382.33,SP,40
+63,223,fibra,229.7,RJ,43
+64,192,fibra,388.96,SP,35
+65,329,fibra,257.81,SP,60
+66,501,fibra,539.74,MG,43
+67,474,fibra,291.86,RJ,43
+68,173,fibra,414.73,MG,49
+69,40,fibra,129.99,SP,54
+70,307,fibra,292.03,RJ,57
+71,32,fibra,496.3,MG,30
+72,323,fibra,382.4,SP,41
+73,29,fibra,310.9,SP,42
+74,308,fibra,522.45,MG,27
+75,96,fibra,487.21,SP,46
+76,110,fibra,258.55,RJ,45
+77,267,fibra,354.16,MG,48
+78,146,fibra,330.62,SP,58
+79,72,fibra,391.85,SP,40
+80,190,fibra,263.67,SP,44
+81,393,fibra,225.01,SP,48
+82,248,fibra,512.45,SP,45
+83,377,fibra,517.27,RJ,36
+84,416,fibra,482.63,SP,36
+85,288,fibra,540.63,RJ,45
+86,483,fibra,440.35,SP,43
+87,159,fibra,448.81,SP,29
+88,137,fibra,447.91,SP,34
+89,435,fibra,326.66,ES,53
+90,401,fibra,316.27,SP,47
+91,19,fibra,223.3,SP,43
+92,289,fibra,397.27,MG,41
+93,92,fibra,244.41,RJ,47
+94,182,fibra,230.86,SP,52
+95,233,fibra,371.96,MG,35
+96,12,fibra,296.29,SP,40
+97,418,fibra,214.11,SP,49
+98,154,fibra,470.9,SP,40
+99,336,fibra,490.05,SP,43
+100,209,fibra,192.11,SP,41
+101,440,fibra,123.23,ES,52
+102,367,fibra,264.54,SP,53
+103,37,fibra,462.93,ES,43
+104,224,fibra,480.84,MG,41
+105,313,fibra,179.48,RJ,48
+106,236,fibra,452.96,ES,36
+107,404,fibra,169.75,ES,48
+108,343,fibra,287.73,MG,53
+109,266,fibra,549.4,SP,37
+110,142,fibra,202.81,SP,43
+111,312,fibra,186.2,RJ,45
+112,48,fibra,301.8,RJ,46
+113,489,fibra,386.46,SP,40
+114,364,fibra,521.15,RJ,42
+115,515,fibra,541.75,SP,41
+116,281,fibra,149.95,MG,55
+117,191,fibra,179.34,SP,57
+118,82,fibra,460.02,SP,47
+119,50,fibra,236.37,SP,41
+120,284,fibra,500.49,SP,34
+121,61,fibra,405.28,SP,42
+122,275,fibra,168.09,SP,46
+123,177,fibra,477.99,SP,33
+124,499,fibra,195.83,SP,45
+125,291,fibra,302.1,SP,42
+126,134,fibra,357.44,SP,39
+127,427,fibra,335.33,SP,42
+128,516,fibra,415.05,SP,49
+129,179,fibra,400.66,SP,43
+130,335,fibra,546.58,SP,53
+131,278,fibra,549.75,SP,39
+132,148,fibra,342.08,ES,42
+133,438,fibra,160.94,MG,49
+134,41,fibra,432.97,MG,43
+135,124,fibra,539.97,RJ,41
+136,11,fibra,256.88,RJ,59
+137,413,fibra,318.32,SP,40
+138,315,fibra,302.65,ES,50
+139,386,fibra,142.11,ES,51
+140,87,fibra,409.07,ES,33
+141,240,fibra,271.94,MG,51
+142,108,fibra,458.61,SP,48
+143,398,fibra,477.81,ES,35
+144,466,fibra,473.13,ES,40
+145,470,fibra,299.17,SP,35
+146,91,fibra,258.26,MG,39
+147,446,fibra,441.99,SP,47
+148,20,fibra,464.6,MG,38
+149,410,fibra,331.24,ES,38
+150,171,fibra,504.0,SP,41
+151,384,fibra,181.88,RJ,45
+152,389,fibra,498.0,SP,37
+153,211,fibra,161.32,ES,54
+154,317,fibra,186.02,ES,41
+155,62,fibra,349.55,RJ,38
+156,57,fibra,149.03,MG,50
+157,359,fibra,142.71,SP,55
+158,153,fibra,120.22,SP,58
+159,59,fibra,307.62,SP,41
+160,479,fibra,453.09,SP,46
+161,140,fibra,134.98,SP,45
+162,451,fibra,400.47,SP,53
+163,200,fibra,473.94,SP,33
+164,272,fibra,192.24,SP,56
+165,249,fibra,183.15,MG,45
+166,52,fibra,490.14,SP,52
+167,237,fibra,473.94,MG,44
+168,257,fibra,351.74,SP,38
+169,445,fibra,472.26,SP,37
+170,151,fibra,159.89,RJ,54
+171,476,fibra,289.63,SP,52
+172,75,fibra,437.25,SP,41
+173,333,fibra,230.7,RJ,47
+174,353,fibra,443.5,SP,46
+175,366,fibra,336.8,SP,45
+176,309,fibra,442.61,RJ,33
+177,514,fibra,319.81,SP,40
+178,86,fibra,278.2,ES,47
+179,242,fibra,214.25,SP,55
+180,166,fibra,209.6,MG,57
+181,431,fibra,443.14,ES,46
+182,297,fibra,171.13,MG,51
+183,56,fibra,156.97,ES,54
+184,355,fibra,195.81,SP,44
+185,120,fibra,195.4,RJ,47
+186,222,fibra,473.94,SP,35
+187,279,fibra,291.36,ES,38
+188,311,fibra,545.87,RJ,40
+189,361,fibra,179.0,SP,50
+190,109,fibra,401.02,MG,46
+191,216,fibra,312.95,SP,48
+192,347,fibra,288.95,RJ,47
+193,238,fibra,496.29,ES,43
+194,183,fibra,539.51,SP,38
+195,344,fibra,495.33,RJ,42
+196,385,fibra,202.69,ES,44
+197,503,fibra,214.94,SP,50
+198,79,fibra,402.11,RJ,46
+199,454,fibra,244.31,SP,43
+200,381,fibra,435.93,RJ,42
+201,487,fibra,363.56,SP,40
+202,201,fibra,356.89,MG,40
+203,533,fibra,476.28,MG,33
+204,432,fibra,425.53,SP,49
+205,351,fibra,131.43,SP,56
+206,83,fibra,141.27,RJ,53
+207,262,fibra,378.67,ES,55
+208,31,fibra,329.06,SP,43
+209,53,fibra,231.88,SP,65
+210,45,fibra,300.02,SP,44
+211,26,fibra,445.9,MG,43
+212,125,fibra,475.44,SP,38
+213,241,fibra,361.33,MG,46
+214,136,fibra,285.71,SP,51
+215,277,fibra,236.4,MG,46
+216,97,fibra,344.42,SP,55
+217,145,fibra,255.34,SP,48
+218,321,fibra,362.56,MG,45
+219,271,fibra,410.96,MG,37
+220,13,fibra,148.41,SP,52
+221,461,fibra,120.46,SP,49
+222,310,fibra,211.28,SP,44
+223,103,fibra,504.64,SP,35
+224,453,fibra,397.91,SP,58
+225,380,fibra,193.94,MG,47
+226,292,fibra,502.81,SP,31
+227,481,fibra,322.08,ES,40
+228,414,fibra,324.72,SP,44
+229,462,fibra,522.28,SP,42
+230,509,fibra,145.58,RJ,53
+231,459,fibra,212.53,SP,52
+232,450,fibra,371.88,RJ,39
+233,143,fibra,204.06,SP,50
+234,375,fibra,412.2,MG,37
+235,100,fibra,212.06,ES,44
+236,9,fibra,162.64,MG,44
+237,178,fibra,209.0,SP,41
+238,394,fibra,301.78,SP,51
+239,397,fibra,195.74,SP,52
+240,170,fibra,177.92,RJ,54
+241,475,fibra,489.92,SP,40
+242,74,fibra,257.77,SP,51
+243,65,fibra,275.13,SP,35
+244,452,fibra,143.77,SP,55
+245,430,fibra,273.67,SP,47
+246,327,fibra,233.87,SP,51
+247,36,fibra,382.51,SP,45
+248,105,fibra,208.32,RJ,42
+249,444,fibra,502.0,SP,30
+250,372,fibra,519.76,SP,35
+251,206,fibra,162.93,RJ,52
+252,131,fibra,166.18,ES,53
+253,217,fibra,169.59,SP,41
+254,194,fibra,386.41,RJ,37
+255,17,fibra,172.45,MG,44
+256,90,fibra,486.52,RJ,38
+257,443,fibra,444.34,MG,33
+258,198,fibra,472.52,ES,32
+259,175,fibra,346.21,SP,39
+260,463,fibra,548.57,SP,39
+261,188,fibra,139.0,RJ,43
+262,457,fibra,292.54,MG,45
+263,181,fibra,259.29,SP,53
+264,341,fibra,527.92,SP,31
+265,467,fibra,368.05,RJ,42
+266,168,fibra,466.66,SP,47
+267,488,fibra,193.25,ES,46
+268,518,fibra,540.81,RJ,35
+269,214,fibra,334.42,ES,51
+270,439,fibra,332.28,MG,42
+271,496,fibra,537.48,RJ,45
+272,365,fibra,283.71,RJ,48
+273,252,fibra,290.94,ES,43
+274,196,fibra,371.44,ES,46
+275,122,fibra,175.06,MG,51
+276,244,fibra,258.07,SP,52
+277,449,fibra,203.08,RJ,45
+278,371,fibra,164.41,SP,49
+279,185,fibra,492.44,MG,39
+280,210,fibra,373.41,RJ,47
+281,43,fibra,274.23,SP,40
+282,21,fibra,295.73,SP,51
+283,471,fibra,305.55,SP,48
+284,468,fibra,392.25,ES,35
+285,158,fibra,518.51,SP,46
+286,132,fibra,521.1,SP,52
+287,494,fibra,288.34,MG,51
+288,114,fibra,261.58,ES,55
+289,187,fibra,313.95,SP,45
+290,189,fibra,364.21,SP,33
+291,507,fibra,318.58,MG,34
+292,220,fibra,403.26,ES,44
+293,322,fibra,358.39,RJ,40
+294,35,fibra,257.91,SP,41
+295,301,fibra,268.66,SP,46
+296,508,fibra,282.79,SP,49
+297,18,fibra,160.7,ES,40
+298,513,fibra,191.41,SP,46
+299,342,fibra,430.94,SP,50
+300,358,fibra,287.31,ES,39
+301,16,fibra,212.25,MG,53
+302,472,fibra,361.95,ES,40
+303,269,fibra,444.88,SP,44
+304,473,fibra,230.69,SP,54
+305,81,fibra,475.52,SP,45
+306,77,fibra,518.83,SP,44
+307,126,fibra,376.88,RJ,36
+308,231,fibra,407.65,SP,49
+309,111,fibra,142.61,RJ,45
+310,162,fibra,526.57,MG,40
+311,5,fibra,288.77,MG,47
+312,204,fibra,517.28,SP,42
+313,115,fibra,368.96,SP,45
+314,155,fibra,121.99,SP,45
+315,370,fibra,136.57,SP,42
+316,93,fibra,412.58,SP,47
+317,259,fibra,361.95,SP,44
+318,500,fibra,131.41,ES,57
+319,295,fibra,439.69,SP,41
+320,46,fibra,486.42,MG,31
+321,493,fibra,333.46,SP,50
+322,368,fibra,320.28,SP,42
+323,403,fibra,122.35,SP,52
+324,296,fibra,458.26,SP,37
+325,408,fibra,262.21,SP,56
+326,345,fibra,497.87,MG,34
+327,268,fibra,280.42,SP,44
+328,306,fibra,362.98,SP,44
+329,378,fibra,236.25,RJ,40
+330,163,fibra,189.05,SP,50
+331,325,fibra,453.21,RJ,50
+332,478,fibra,333.53,SP,41
+333,33,banda larga,187.3,MG,51
+334,7,banda larga,273.08,SP,29
+335,143,banda larga,272.72,RJ,46
+336,169,banda larga,251.13,MG,45
+337,14,banda larga,117.52,ES,45
+338,343,banda larga,198.85,SP,55
+339,191,banda larga,255.63,RJ,44
+340,133,banda larga,154.89,SP,48
+341,50,banda larga,100.22,SP,49
+342,497,banda larga,242.19,SP,35
+343,229,banda larga,176.35,MG,42
+344,94,banda larga,192.88,SP,54
+345,136,banda larga,276.43,MG,33
+346,318,banda larga,201.44,SP,43
+347,444,banda larga,165.0,ES,47
+348,418,banda larga,154.0,MG,60
+349,294,banda larga,163.52,SP,54
+350,105,banda larga,103.68,SP,47
+351,203,banda larga,238.95,SP,55
+352,177,banda larga,247.54,ES,42
+353,458,banda larga,136.88,SP,56
+354,313,banda larga,140.76,RJ,42
+355,248,banda larga,254.87,RJ,53
+356,520,banda larga,84.79,MG,49
+357,206,banda larga,184.09,RJ,42
+358,281,banda larga,172.74,RJ,47
+359,276,banda larga,218.03,ES,49
+360,227,banda larga,112.68,SP,48
+361,345,banda larga,213.67,MG,51
+362,19,banda larga,155.35,SP,46
+363,53,banda larga,203.74,RJ,52
+364,205,banda larga,88.02,ES,54
+365,249,banda larga,172.35,MG,48
+366,419,banda larga,184.45,MG,46
+367,334,banda larga,122.87,SP,51
+368,431,banda larga,107.92,RJ,54
+369,324,banda larga,117.69,SP,63
+370,291,banda larga,148.83,RJ,55
+371,3,banda larga,99.36,RJ,57
+372,225,banda larga,269.46,SP,65
+373,423,banda larga,161.0,SP,52
+374,226,banda larga,241.79,SP,50
+375,481,banda larga,274.88,SP,50
+376,154,banda larga,96.15,SP,45
+377,427,banda larga,210.33,ES,45
+378,525,banda larga,254.28,RJ,43
+379,367,banda larga,206.85,SP,52
+380,274,banda larga,165.81,MG,48
+381,106,banda larga,166.22,MG,50
+382,269,banda larga,87.18,SP,58
+383,41,banda larga,186.92,SP,54
+384,168,banda larga,278.71,SP,45
+385,216,banda larga,271.74,SP,42
+386,272,banda larga,88.08,MG,58
+387,49,banda larga,221.16,ES,52
+388,395,banda larga,140.35,SP,40
+389,464,banda larga,260.6,MG,44
+390,432,banda larga,89.02,SP,52
+391,320,banda larga,267.17,RJ,51
+392,436,banda larga,247.5,MG,52
+393,511,banda larga,103.5,SP,52
+394,330,banda larga,91.96,SP,55
+395,264,banda larga,246.94,RJ,47
+396,340,banda larga,111.15,ES,46
+397,404,banda larga,186.98,SP,47
+398,430,banda larga,263.15,SP,46
+399,17,banda larga,193.49,SP,48
+400,36,banda larga,159.45,RJ,38
+401,59,banda larga,169.0,RJ,47
+402,5,banda larga,92.62,MG,51
+403,437,banda larga,273.75,MG,44
+404,219,banda larga,142.13,ES,48
+405,228,banda larga,117.87,MG,53
+406,521,banda larga,137.21,SP,43
+407,30,banda larga,272.87,RJ,36
+408,128,banda larga,98.86,SP,49
+409,47,banda larga,253.46,SP,51
+410,234,banda larga,221.57,ES,58
+411,198,banda larga,246.0,MG,51
+412,139,banda larga,275.18,ES,37
+413,498,banda larga,248.43,RJ,45
+414,282,banda larga,268.68,RJ,48
+415,182,banda larga,105.39,RJ,52
+416,354,banda larga,239.16,SP,50
+417,273,banda larga,189.14,SP,43
+418,465,banda larga,188.7,RJ,49
+419,212,banda larga,259.78,SP,49
+420,487,banda larga,-274.36,ES,51
+421,505,banda larga,220.97,SP,43
+422,428,banda larga,-176.59,SP,47
+423,130,banda larga,171.28,MG,33
+424,48,banda larga,157.27,SP,45
+425,214,banda larga,152.32,ES,46
+426,223,banda larga,158.3,MG,43
+427,141,banda larga,97.95,SP,52
+428,471,banda larga,95.49,MG,51
+429,527,banda larga,235.97,RJ,33
+430,460,banda larga,169.21,MG,50
+431,401,banda larga,266.14,MG,41
+432,204,banda larga,202.44,MG,51
+433,384,banda larga,87.04,RJ,44
+434,355,banda larga,111.5,SP,51
+435,157,banda larga,-121.16,MG,49
+436,417,banda larga,275.15,ES,48
+437,67,banda larga,123.74,RJ,51
+438,442,banda larga,183.15,MG,47
+439,16,banda larga,267.24,RJ,37
+440,183,banda larga,275.44,MG,37
+441,475,banda larga,127.27,ES,47
+442,31,banda larga,89.82,SP,51
+443,338,banda larga,110.72,SP,47
+444,414,banda larga,92.67,RJ,55
+445,352,banda larga,119.02,RJ,49
+446,285,banda larga,193.71,RJ,42
+447,342,banda larga,262.49,SP,45
+448,514,banda larga,187.44,RJ,50
+449,20,banda larga,205.2,RJ,50
+450,379,banda larga,120.37,RJ,62
+451,426,banda larga,240.12,MG,43
+452,439,banda larga,203.56,MG,47
+453,277,banda larga,252.83,RJ,49
+454,40,banda larga,269.77,MG,46
+455,237,banda larga,149.58,RJ,46
+456,523,banda larga,98.12,RJ,42
+457,532,banda larga,125.19,RJ,47
+458,86,banda larga,167.57,SP,42
+459,90,banda larga,269.14,SP,36
+460,267,banda larga,155.66,RJ,44
+461,494,banda larga,234.15,ES,41
+462,375,banda larga,188.1,MG,52
+463,71,banda larga,116.56,SP,54
+464,58,banda larga,144.15,RJ,44
+465,304,banda larga,210.64,SP,46
+466,386,banda larga,214.57,MG,36
+467,165,banda larga,166.95,MG,46
+468,333,banda larga,125.73,RJ,53
+469,92,banda larga,224.38,RJ,52
+470,284,banda larga,113.77,SP,46
+471,506,banda larga,267.33,RJ,52
+472,510,banda larga,117.58,ES,41
+473,160,banda larga,101.46,MG,43
+474,358,banda larga,179.53,RJ,53
+475,402,banda larga,183.91,SP,58
+476,89,banda larga,181.64,SP,51
+477,178,banda larga,167.33,SP,49
+478,115,banda larga,278.96,SP,33
+479,311,banda larga,177.26,SP,37
+480,75,banda larga,175.59,ES,49
+481,63,banda larga,164.35,RJ,47
+482,422,banda larga,93.37,SP,44
+483,217,banda larga,198.59,SP,48
+484,518,banda larga,125.59,SP,51
+485,32,banda larga,207.52,MG,53
+486,21,banda larga,90.17,SP,52
+487,448,banda larga,276.28,MG,53
+488,126,banda larga,173.8,MG,49
+489,103,banda larga,259.35,SP,46
+490,218,banda larga,175.11,RJ,55
+491,24,banda larga,92.07,ES,45
+492,452,banda larga,244.44,RJ,64
+493,186,banda larga,209.64,SP,50
+494,100,banda larga,236.35,ES,49
+495,364,banda larga,165.63,ES,52
+496,195,banda larga,207.59,RJ,59
+497,189,banda larga,251.25,RJ,51
+498,82,banda larga,206.21,SP,38
+499,193,banda larga,149.53,MG,58
+500,209,banda larga,212.51,RJ,46
+501,394,banda larga,214.37,SP,48
+502,473,banda larga,272.12,MG,38
+503,519,banda larga,154.18,ES,52
+504,260,banda larga,165.02,MG,45
+505,382,banda larga,242.42,SP,47
+506,239,banda larga,181.15,SP,47
+507,415,banda larga,227.31,ES,59
+508,97,banda larga,171.94,ES,61
+509,61,banda larga,123.1,RJ,50
+510,363,banda larga,229.04,RJ,48
+511,524,banda larga,106.23,RJ,48
+512,292,banda larga,119.72,RJ,57
+513,268,banda larga,205.36,SP,46
+514,515,banda larga,229.45,SP,45
+515,150,banda larga,258.94,SP,52
+516,396,banda larga,134.52,MG,47
+517,300,banda larga,102.14,SP,51
+518,162,banda larga,271.21,SP,36
+519,190,banda larga,110.88,RJ,55
+520,400,banda larga,119.53,SP,62
+521,435,banda larga,138.27,SP,54
+522,175,banda larga,185.88,RJ,57
+523,370,banda larga,256.57,SP,41
+524,467,banda larga,232.11,RJ,49
+525,135,banda larga,221.63,ES,42
+526,200,banda larga,115.04,SP,49
+527,187,banda larga,151.54,ES,54
+528,124,banda larga,175.68,ES,49
+529,516,banda larga,109.49,MG,42
+530,353,banda larga,134.69,RJ,42
+531,77,banda larga,141.67,RJ,41
+532,149,banda larga,105.46,RJ,54
+533,151,banda larga,190.05,MG,61
+534,323,banda larga,221.01,SP,56
+535,314,banda larga,93.99,ES,40
+536,99,banda larga,176.22,RJ,57
+537,377,banda larga,236.44,MG,53
+538,517,banda larga,229.6,SP,38
+539,6,banda larga,243.01,SP,45
+540,202,banda larga,169.65,RJ,55
+541,241,banda larga,244.11,RJ,50
+542,152,banda larga,128.15,RJ,42
+543,251,banda larga,152.16,SP,53
+544,116,banda larga,115.27,SP,38
+545,356,banda larga,173.5,RJ,47
+546,327,banda larga,158.41,SP,56
+547,263,banda larga,128.19,ES,50
+548,213,banda larga,230.36,SP,44
+549,500,banda larga,142.77,SP,55
+550,265,banda larga,134.56,SP,56
+551,455,banda larga,106.18,RJ,59
+552,476,banda larga,167.76,RJ,54
+553,480,banda larga,140.59,RJ,56
+554,434,banda larga,153.85,ES,54
+555,411,banda larga,127.2,SP,52
+556,488,banda larga,232.63,MG,48
+557,243,banda larga,266.0,SP,45
+558,137,banda larga,179.59,SP,41
+559,57,banda larga,208.6,RJ,42
+560,531,banda larga,253.43,SP,45
+561,246,banda larga,279.77,RJ,47
+562,441,banda larga,202.7,MG,57
+563,297,banda larga,257.96,MG,46
+564,303,banda larga,261.72,RJ,52
+565,132,banda larga,238.29,RJ,53
+566,462,banda larga,172.19,SP,47
+567,446,banda larga,96.23,SP,55
+568,220,banda larga,83.16,SP,50
+569,279,banda larga,175.44,MG,57
+570,420,banda larga,178.86,ES,52
+571,479,banda larga,161.47,SP,42
+572,301,banda larga,193.63,RJ,49
+573,11,banda larga,190.43,MG,58
+574,23,banda larga,247.32,MG,46
+575,235,banda larga,101.73,RJ,53
+576,493,banda larga,125.04,RJ,53
+577,398,banda larga,238.6,MG,41
+578,83,banda larga,249.57,ES,50
+579,231,banda larga,278.96,SP,37
+580,339,banda larga,254.58,ES,43
+581,390,banda larga,257.98,SP,53
+582,449,banda larga,142.87,MG,52
+583,221,banda larga,160.33,SP,47
+584,208,banda larga,133.62,SP,53
+585,201,banda larga,201.26,SP,48
+586,140,banda larga,267.76,RJ,46
+587,60,banda larga,148.93,SP,53
+588,290,banda larga,191.4,SP,44
+589,490,banda larga,139.26,RJ,50
+590,337,banda larga,113.96,RJ,49
+591,397,banda larga,119.04,MG,41
+592,256,banda larga,91.59,ES,46
+593,378,banda larga,269.86,MG,55
+594,176,banda larga,160.58,SP,51
+595,25,banda larga,246.82,SP,39
+596,371,banda larga,216.27,ES,38
+597,447,banda larga,118.38,SP,50
+598,305,banda larga,115.09,RJ,60
+599,331,banda larga,242.4,ES,46
+600,65,banda larga,132.94,ES,58
+601,42,banda larga,262.66,RJ,48
+602,380,banda larga,108.01,MG,53
+603,52,banda larga,215.54,RJ,40
+604,46,banda larga,242.89,MG,52
+605,317,banda larga,127.05,SP,48
+606,413,banda larga,135.24,SP,55
+607,325,banda larga,272.9,RJ,41
+608,242,banda larga,132.92,SP,51
+609,91,banda larga,165.99,MG,51
+610,496,banda larga,166.5,SP,48
+611,252,banda larga,-130.61,ES,52
+612,146,banda larga,235.16,MG,45
+613,39,banda larga,234.37,RJ,43
+614,12,banda larga,155.66,MG,59
+615,391,banda larga,247.03,SP,53
+616,533,banda larga,122.61,RJ,46
+617,210,banda larga,80.86,SP,55
+618,117,banda larga,194.23,ES,44
+619,181,banda larga,278.82,MG,39
+620,309,banda larga,87.73,ES,57
+621,321,banda larga,-121.6,ES,40
+622,450,banda larga,183.78,ES,54
+623,407,banda larga,241.99,SP,45
+624,443,banda larga,97.81,ES,50
+625,238,banda larga,159.05,RJ,52
+626,28,banda larga,229.42,RJ,51
+627,328,banda larga,154.31,RJ,44
+628,421,banda larga,117.77,SP,55
+629,38,banda larga,119.1,SP,51
+630,295,banda larga,162.01,SP,42
+631,66,banda larga,175.88,SP,48
+632,131,banda larga,252.36,RJ,55
+633,306,banda larga,208.45,ES,58
+634,236,banda larga,218.08,RJ,52
+635,302,banda larga,276.6,RJ,39
+636,287,banda larga,162.37,RJ,52
+637,101,banda larga,160.67,RJ,54
+638,512,banda larga,264.67,SP,51
+639,454,banda larga,129.18,MG,55
+640,461,banda larga,225.96,SP,49
+641,470,banda larga,230.91,MG,47
+642,224,banda larga,99.56,MG,47
+643,211,banda larga,173.65,RJ,37
+644,147,banda larga,120.11,ES,52
+645,113,banda larga,117.08,SP,51
+646,9,banda larga,172.77,ES,52
+647,322,banda larga,137.89,MG,42
+648,270,banda larga,239.21,MG,51
+649,366,banda larga,261.52,MG,59
+650,109,banda larga,240.54,MG,47
+651,76,banda larga,133.21,ES,50
+652,399,banda larga,134.83,RJ,52
+653,43,banda larga,130.95,MG,62
+654,369,banda larga,107.01,MG,45
+655,438,banda larga,268.76,RJ,47
+656,316,banda larga,160.41,ES,44
+657,194,banda larga,124.94,SP,47
+658,296,banda larga,249.33,RJ,46
+659,2,banda larga,159.84,SP,57
+660,492,banda larga,87.02,SP,62
+661,385,banda larga,112.39,MG,53
+662,166,banda larga,207.85,SP,46
+663,121,banda larga,236.58,SP,62
+664,289,banda larga,122.19,SP,48
+665,341,banda larga,263.48,RJ,43
+666,183,celular,349.34,RJ,33
+667,197,celular,348.45,RJ,52
+668,372,celular,137.4,SP,56
+669,215,celular,77.18,ES,66
+670,375,celular,354.92,MG,35
+671,131,celular,163.97,ES,58
+672,311,celular,270.43,MG,46
+673,235,celular,318.39,MG,49
+674,80,celular,103.62,MG,41
+675,56,celular,325.49,ES,53
+676,436,celular,379.09,ES,48
+677,288,celular,307.65,MG,45
+678,186,celular,210.02,RJ,52
+679,18,celular,358.07,ES,39
+680,423,celular,239.34,MG,43
+681,210,celular,313.22,RJ,42
+682,43,celular,338.97,RJ,33
+683,36,celular,314.78,SP,50
+684,7,celular,157.87,ES,56
+685,527,celular,100.07,MG,47
+686,231,celular,141.04,ES,52
+687,501,celular,230.98,SP,46
+688,99,celular,231.79,ES,49
+689,9,celular,258.1,MG,43
+690,437,celular,194.33,ES,43
+691,187,celular,327.54,RJ,51
+692,467,celular,370.47,MG,43
+693,58,celular,143.89,RJ,62
+694,110,celular,310.42,RJ,45
+695,66,celular,290.51,RJ,40
+696,257,celular,237.85,SP,54
+697,319,celular,124.1,RJ,54
+698,349,celular,330.38,SP,49
+699,142,celular,386.61,MG,50
+700,324,celular,305.42,RJ,41
+701,424,celular,372.07,ES,42
+702,292,celular,394.62,ES,41
+703,32,celular,179.7,MG,41
+704,62,celular,277.0,RJ,44
+705,21,celular,221.14,ES,55
+706,88,celular,395.45,MG,44
+707,397,celular,91.89,RJ,43
+708,180,celular,200.21,SP,39
+709,307,celular,357.68,SP,53
+710,333,celular,156.58,ES,49
+711,396,celular,327.85,RJ,40
+712,155,celular,190.15,SP,47
+713,103,celular,393.19,SP,34
+714,344,celular,360.4,SP,52
+715,383,celular,162.45,RJ,47
+716,19,celular,321.87,SP,53
+717,314,celular,174.53,ES,49
+718,468,celular,266.16,RJ,55
+719,28,celular,283.88,SP,47
+720,377,celular,342.06,ES,49
+721,444,celular,68.31,ES,56
+722,277,celular,134.85,RJ,54
+723,196,celular,302.05,MG,47
+724,368,celular,251.6,MG,45
+725,331,celular,228.51,SP,59
+726,140,celular,78.77,ES,46
+727,54,celular,178.41,RJ,49
+728,313,celular,354.13,SP,44
+729,512,celular,70.5,MG,54
+730,352,celular,194.79,RJ,46
+731,182,celular,381.35,SP,45
+732,329,celular,77.3,MG,50
+733,434,celular,314.9,ES,35
+734,158,celular,147.59,MG,50
+735,138,celular,354.65,MG,37
+736,393,celular,313.66,MG,34
+737,226,celular,361.14,SP,44
+738,86,celular,133.41,ES,53
+739,374,celular,240.64,ES,50
+740,82,celular,324.95,ES,48
+741,263,celular,143.54,SP,38
+742,207,celular,138.45,RJ,42
+743,432,celular,69.24,SP,64
+744,376,celular,385.9,RJ,36
+745,72,celular,301.41,MG,49
+746,240,celular,276.09,RJ,42
+747,178,celular,312.96,SP,45
+748,193,celular,240.75,SP,43
+749,96,celular,221.89,MG,51
+750,105,celular,212.84,SP,48
+751,460,celular,277.75,SP,43
+752,464,celular,128.52,ES,44
+753,297,celular,361.94,RJ,45
+754,225,celular,336.0,SP,37
+755,330,celular,178.85,RJ,51
+756,491,celular,256.73,RJ,62
+757,31,celular,107.95,RJ,59
+758,336,celular,390.6,ES,47
+759,16,celular,366.98,ES,43
+760,114,celular,373.45,ES,31
+761,81,celular,172.94,ES,41
+762,413,celular,117.51,RJ,58
+763,328,celular,132.0,SP,45
+764,48,celular,90.6,MG,47
+765,312,celular,100.84,SP,50
+766,531,celular,84.24,RJ,45
+767,274,celular,396.54,MG,35
+768,470,celular,85.18,ES,51
+769,124,celular,105.06,RJ,45
+770,49,celular,341.27,RJ,40
+771,199,celular,257.28,SP,42
+772,511,celular,323.3,RJ,48
+773,514,celular,274.51,RJ,44
+774,100,celular,359.94,SP,42
+775,133,celular,277.08,RJ,49
+776,325,celular,237.52,MG,46
+777,273,celular,302.33,ES,43
+778,345,celular,212.11,ES,50
+779,415,celular,177.66,MG,53
+780,366,celular,219.0,SP,47
+781,503,celular,117.7,SP,51
+782,20,celular,330.83,SP,40
+783,476,celular,148.64,ES,44
+784,519,celular,112.2,MG,55
+785,359,celular,143.76,SP,52
+786,234,celular,346.3,ES,47
+787,469,celular,172.27,ES,50
+788,143,celular,293.26,ES,46
+789,121,celular,351.18,RJ,48
+790,306,celular,86.43,MG,57
+791,97,celular,320.11,RJ,50
+792,340,celular,164.61,SP,48
+793,246,celular,133.65,ES,58
+794,262,celular,294.23,RJ,47
+795,517,celular,369.33,RJ,47
+796,463,celular,160.31,ES,51
+797,41,celular,253.4,ES,48
+798,435,celular,-158.54,MG,45
+799,458,celular,248.46,ES,51
+800,395,celular,271.43,RJ,63
+801,480,celular,267.51,RJ,44
+802,213,celular,272.01,MG,46
+803,529,celular,105.93,SP,48
+804,52,celular,295.8,ES,42
+805,287,celular,289.42,SP,55
+806,71,celular,292.08,SP,41
+807,135,celular,85.18,MG,48
+808,46,celular,211.93,ES,38
+809,59,celular,199.07,SP,43
+810,224,celular,89.48,SP,41
+811,166,celular,135.61,SP,54
+812,37,celular,209.93,RJ,65
+813,26,celular,312.59,ES,43
+814,486,celular,140.6,SP,40
+815,1,celular,342.11,SP,49
+816,70,celular,245.57,ES,42
+817,489,celular,318.54,MG,52
+818,68,celular,220.67,ES,46
+819,44,celular,229.73,MG,43
+820,462,celular,270.7,RJ,45
+821,150,celular,375.51,MG,48
+822,465,celular,227.22,ES,46
+823,122,celular,239.74,SP,44
+824,526,celular,264.68,RJ,45
+825,119,celular,310.76,RJ,37
+826,136,celular,84.43,ES,54
+827,362,celular,235.33,MG,36
+828,111,celular,223.74,SP,45
+829,83,celular,373.37,RJ,48
+830,532,celular,227.79,ES,49
+831,77,celular,219.23,SP,51
+832,360,celular,387.15,MG,42
+833,237,celular,213.2,MG,55
+834,203,celular,121.5,RJ,56
+835,98,celular,133.75,ES,53
+836,369,celular,92.36,ES,57
+837,161,celular,60.19,ES,57
+838,473,celular,206.86,MG,45
+839,399,celular,321.54,MG,36
+840,40,celular,309.38,SP,47
+841,188,celular,70.93,RJ,55
+842,38,celular,253.79,MG,53
+843,61,celular,112.46,MG,45
+844,472,celular,379.97,SP,37
+845,60,celular,116.9,SP,53
+846,427,celular,273.06,ES,45
+847,412,celular,170.92,SP,38
+848,411,celular,278.13,SP,48
+849,230,celular,200.17,RJ,37
+850,391,celular,318.28,MG,39
+851,22,celular,138.43,MG,58
+852,17,celular,367.97,MG,54
+853,238,celular,230.07,RJ,40
+854,382,celular,317.07,MG,43
+855,153,celular,348.91,RJ,44
+856,316,celular,399.6,RJ,53
+857,145,celular,136.14,ES,47
+858,163,celular,157.54,MG,46
+859,284,celular,145.15,ES,59
+860,247,celular,149.38,MG,47
+861,290,celular,258.03,MG,51
+862,173,celular,397.8,ES,33
+863,516,celular,396.69,MG,41
+864,171,celular,239.1,SP,37
+865,242,celular,277.27,MG,39
+866,108,celular,352.39,SP,49
+867,398,celular,377.2,MG,43
+868,84,celular,129.31,ES,48
+869,269,celular,239.7,RJ,42
+870,258,celular,343.16,SP,43
+871,490,celular,163.09,ES,51
+872,482,celular,209.54,MG,54
+873,322,celular,395.11,SP,27
+874,358,celular,394.92,SP,37
+875,300,celular,368.08,SP,44
+876,14,celular,331.47,SP,44
+877,243,celular,151.5,MG,52
+878,252,celular,169.09,MG,50
+879,308,celular,246.08,ES,45
+880,477,celular,250.66,SP,43
+881,455,celular,-231.87,SP,46
+882,361,celular,276.47,SP,53
+883,113,celular,198.83,ES,44
+884,146,celular,314.72,MG,44
+885,176,celular,173.41,ES,50
+886,5,celular,172.43,SP,58
+887,89,celular,103.26,SP,49
+888,93,celular,124.16,RJ,56
+889,373,celular,349.18,SP,51
+890,249,celular,211.74,SP,47
+891,159,celular,137.48,SP,49
+892,286,celular,318.18,RJ,43
+893,326,celular,248.35,ES,45
+894,236,celular,67.19,ES,57
+895,216,celular,167.56,RJ,50
+896,309,celular,120.18,SP,52
+897,456,celular,283.0,RJ,39
+898,356,celular,153.51,SP,44
+899,487,celular,82.08,ES,64
+900,451,celular,78.68,MG,50
+901,87,celular,257.79,MG,42
+902,67,celular,67.39,RJ,60
+903,291,celular,348.59,SP,45
+904,264,celular,112.84,RJ,54
+905,130,celular,266.23,MG,45
+906,507,celular,211.19,ES,46
+907,167,celular,210.57,RJ,47
+908,244,celular,84.41,SP,43
+909,353,celular,332.94,RJ,44
+910,200,celular,363.64,ES,45
+911,494,celular,63.75,ES,63
+912,2,celular,120.73,SP,51
+913,431,celular,367.33,ES,29
+914,260,celular,246.83,ES,46
+915,475,celular,111.01,MG,67
+916,76,celular,128.95,SP,55
+917,483,celular,284.4,SP,41
+918,448,celular,306.44,RJ,49
+919,228,celular,263.81,SP,42
+920,206,celular,384.07,ES,35
+921,298,celular,227.98,RJ,45
+922,279,celular,162.09,SP,50
+923,160,celular,222.26,SP,36
+924,497,celular,182.29,ES,42
+925,91,celular,136.3,SP,50
+926,79,celular,75.63,ES,49
+927,533,celular,179.75,ES,51
+928,485,celular,301.88,ES,38
+929,428,celular,66.27,MG,56
+930,430,celular,209.32,ES,41
+931,387,celular,278.96,ES,56
+932,442,celular,-267.54,SP,36
+933,289,celular,324.06,ES,38
+934,24,celular,335.58,RJ,47
+935,33,celular,301.98,ES,55
+936,148,celular,94.95,MG,53
+937,459,celular,221.51,MG,51
+938,414,celular,265.16,SP,46
+939,347,celular,143.49,SP,43
+940,520,celular,74.47,SP,49
+941,128,celular,136.02,RJ,43
+942,13,celular,214.66,SP,40
+943,50,celular,200.74,RJ,50
+944,338,celular,120.07,SP,44
+945,12,celular,340.3,MG,46
+946,132,celular,374.73,MG,35
+947,285,celular,-128.46,MG,52
+948,51,celular,376.05,RJ,40
+949,384,celular,66.07,RJ,60
+950,255,celular,374.49,RJ,45
+951,493,celular,383.66,SP,50
+952,521,celular,64.1,RJ,47
+953,299,celular,319.43,SP,45
+954,139,celular,389.87,RJ,37
+955,232,celular,368.01,ES,41
+956,78,celular,390.04,MG,41
+957,194,celular,247.11,SP,42
+958,452,celular,-86.57,SP,44
+959,471,celular,348.93,SP,35
+960,259,celular,268.7,RJ,32
+961,272,celular,269.01,RJ,40
+962,253,celular,201.87,RJ,52
+963,280,celular,254.43,SP,37
+964,248,celular,112.22,ES,42
+965,202,celular,311.52,MG,56
+966,218,celular,85.51,ES,47
+967,239,celular,308.13,MG,47
+968,63,celular,348.65,MG,48
+969,10,celular,220.64,ES,51
+970,95,celular,233.34,SP,38
+971,4,celular,166.15,MG,48
+972,151,celular,389.62,ES,33
+973,265,celular,309.26,SP,60
+974,85,celular,185.46,RJ,39
+975,492,celular,119.43,ES,44
+976,327,celular,134.66,RJ,44
+977,334,celular,217.73,ES,39
+978,11,celular,380.47,ES,51
+979,293,celular,309.61,ES,59
+980,528,celular,133.18,RJ,47
+981,30,celular,352.25,ES,36
+982,165,celular,188.59,MG,35
+983,64,celular,349.59,SP,42
+984,365,celular,142.18,ES,48
+985,496,celular,270.34,SP,42
+986,335,celular,375.07,SP,44
+987,126,celular,147.68,SP,52
+988,518,celular,295.6,ES,47
+989,433,celular,395.69,SP,41
+990,447,celular,111.2,ES,44
+991,127,celular,90.06,RJ,55
+992,386,celular,289.23,RJ,46
+993,134,celular,175.51,MG,54
+994,400,celular,84.22,ES,56
+995,296,celular,221.6,ES,39
+996,195,celular,316.28,MG,36
+997,271,celular,156.94,ES,45
+998,104,celular,173.92,SP,42
+999,92,celular,347.54,RJ,48
