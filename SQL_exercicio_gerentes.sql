@@ -7,11 +7,13 @@ CREATE TABLE youtube.tabela_empregados (
 
 INSERT INTO youtube.tabela_empregados (id, nome, id_gerente) VALUES
 (1, 'Ana', 101),
-(2, 'Bruno', 101),
+(2, 'Bruno', 103),
 (3, 'Carla', 102),
 (4, 'Diego', 102),
-(5, 'Eduarda', 103),
-(6, 'Felipe', 103);
+(5, 'Eduarda', 102),
+(6, 'Felipe', 103),
+(7, 'Jose', 103),
+(8, 'Felipe', 102);
 
 -- Criação da tabela de gerentes
 CREATE TABLE youtube.tabela_gerentes (
